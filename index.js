@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 console.log(`
 Hi, nice to meet you!
 
