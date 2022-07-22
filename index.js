@@ -3,20 +3,18 @@
 import chalk from 'chalk';
 
 console.log(`
-Hi, nice to meet you!
+Hi, I'm Maya, it's nice to meet you!
 
-I am passionate about building beautiful web applications that ${chalk.underline.blue(
-  'delight'
-)} and ${chalk.underline.blue('inspire')}.
+I am interested in learning more about different coding ${chalk.underline.blue('languages')} and how they work together to create ${chalk.underline.blue('beautiful')} applications.
+${chalk.italic.magenta('I\'m familiar with HTML, CSS, Java, and JavaScript.')}
+In the future, I think it would be super cool to learn the coding language, Python!  
 
-I have over 8 years of experience working in a variety of industries building solutions to problems 
-using software. I prefer to focus on the UI and work closely with end users and designers to craft 
-elegant experiences. 
-I believe that striving for ${chalk.underline.blue(
-  'simplicity'
-)} and ${chalk.underline.blue('clarity')} results in the best outcomes.
+I believe debugging is an ${chalk.underline.green('extemely')}
+important skill to have when coding. Many of the times, 
+the output of code doesn't always work out on the first try because of an error in the code. Debgugging takes patience and time, but it's always ${chalk.underline.blue('rewarding')} 
+to see the code come together!
 
-If you would like to read some of my thoughts on building software, checkout my blog at redgreenrefactor.dev.
-
-To get in contact with me, send me an email at hey@johnoerter.me, follow me on GitHub, connect with me on LinkedIn, or join me in the #fediverse on mastodon.technology!
+To get in contact with me, connect with me on ${chalk.bold.red('LinkedIn')} @ Maya Shah!
 `);
+
+
